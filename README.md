@@ -4,7 +4,7 @@
     <img src="https://dashboard.scrape.do/assets/images/logo.png" alt="scrape.do" width="200">
 </p>
 
-Web Scraper Api
+Web Scraper API
  - Best Rotating Proxy & [Scraping API](https://scrape.do/) Alternative.
  - :warning: Please read the [documents](https://docs.scrape.do/) first.
  
