@@ -1,7 +1,7 @@
 # Scrape.do python-sample
 
 <p align="center">
-    <img src="https://scrape.do/images/logo.png" alt="scrape.do" width="200">
+    <img src="https://dashboard.scrape.do/assets/images/logo.png" alt="scrape.do" width="200">
 </p>
 
 Web Scraper Api
